@@ -1,7 +1,8 @@
 import random
 
 print(random.choice([1, 2, 3]))
-print("Changed in Branch A TEST")
+print("Changed in Branch A TEST2")
+print("Changed in Branch A TEST2")
 
 # 두 숫자를 더하고 곱하는 간단한 계산
 num1 = 5
