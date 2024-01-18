@@ -1,7 +1,7 @@
 import random
 
 print(random.choice([1, 2, 3]))
-print("HEllO")
+print("Changed in Branch A TEST")
 
 # 두 숫자를 더하고 곱하는 간단한 계산
 num1 = 5
